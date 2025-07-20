@@ -52,7 +52,7 @@
     "simplebar-react": "^2.3.0"
   },
   "engines": {
-    "node": "16.x"
+    "node": ">=16.0.0"
   },
   "scripts": {
     "start": "react-scripts start",
