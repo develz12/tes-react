@@ -51,6 +51,10 @@
     "sass": "^1.50.0",
     "simplebar-react": "^2.3.0"
   },
+  "engines": {
+    "node": ">=10.16.0",
+    "npm": ">=6.9.0"
+  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
